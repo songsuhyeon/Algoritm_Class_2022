@@ -2,7 +2,7 @@
 ##알고리즘 기초
 
 ##시간복잡도
-Click [고스택](https://www.acmicpc.net/problem/3425)
+  - [고스택](https://www.acmicpc.net/problem/3425)
 
 ##자료구조
 
