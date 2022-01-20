@@ -1,5 +1,5 @@
 # 22년 동계 대학생 알고리즘 특강 2차
-**알고리즘 기초**
+### 알고리즘 기초
   - [고스택](https://www.acmicpc.net/problem/3425)
   - [탈출](https://www.acmicpc.net/problem/3055)
   - [한수](https://www.acmicpc.net/problem/1065)
@@ -14,7 +14,7 @@
   - [치킨 배달](https://www.acmicpc.net/problem/15686)
 
 
-**시간복잡도**
+### 시간복잡도
   - [수들의 합 2](https://www.acmicpc.net/problem/2003)
   - [나무 자르기](https://www.acmicpc.net/problem/2805) ⭐
   - [피보나치 수 2](https://www.acmicpc.net/problem/2748)
@@ -28,7 +28,7 @@
   - [최솟값 찾기](https://www.acmicpc.net/problem/11003)
 
 
-## 자료구조
+### 자료구조
   - [스택](https://www.acmicpc.net/problem/10828)
   - [큐](https://www.acmicpc.net/problem/10845)
   - [트리 순회](https://www.acmicpc.net/problem/1991)
@@ -49,7 +49,7 @@
   - [강수량](https://www.acmicpc.net/problem/2094)
 
 
-## 정수론
+### 정수론
   - [분수 합](https://www.acmicpc.net/problem/1735)
   - [최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476) ⭐
   - [캔디 분배](https://www.acmicpc.net/problem/3955)
@@ -66,12 +66,12 @@
   - [소수를 분수로](https://www.acmicpc.net/problem/5376)
 
 
-## 조합론
+### 조합론
 
-## 그래프1
+### 그래프1
 
-## 그래프2
+### 그래프2
 
-## 동적계획법1
+### 동적계획법1
 
-## 동적계획법2
+### 동적계획법2
