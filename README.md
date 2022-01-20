@@ -1,9 +1,9 @@
 # 22년 동계 대학생 알고리즘 특강 2차
 ### 알고리즘 기초
   - [고스택](https://www.acmicpc.net/problem/3425)
-  - [탈출](https://www.acmicpc.net/problem/3055)
+  - [탈출](https://www.acmicpc.net/problem/3055) ⭐
   - [한수](https://www.acmicpc.net/problem/1065)
-  - [후보 추천하기](https://www.acmicpc.net/problem/1713)
+  - [후보 추천하기](https://www.acmicpc.net/problem/1713) ⭐
   - [게임](https://www.acmicpc.net/problem/1103)
   - [교환](https://www.acmicpc.net/problem/1039)
   - [수 찾기](https://www.acmicpc.net/problem/1920)
@@ -15,7 +15,7 @@
 
 
 ### 시간복잡도
-  - [수들의 합 2](https://www.acmicpc.net/problem/2003)
+  - [수들의 합 2](https://www.acmicpc.net/problem/2003) ⭐
   - [나무 자르기](https://www.acmicpc.net/problem/2805) ⭐
   - [피보나치 수 2](https://www.acmicpc.net/problem/2748)
   - [달리기](https://www.acmicpc.net/problem/2517)
@@ -67,7 +67,19 @@
 
 
 ### 조합론
-
+  - [이항 계수 1](https://www.acmicpc.net/problem/11050)
+  - [이항 계수 2](https://www.acmicpc.net/problem/11051)
+  - [다리 놓기](https://www.acmicpc.net/problem/1010)
+  - [사전](https://www.acmicpc.net/problem/1256)
+  - [카드 놓기](https://www.acmicpc.net/problem/5568)
+  - [1학년](https://www.acmicpc.net/problem/5557)
+  - [산책](https://www.acmicpc.net/problem/5573)
+  - [출근 경로](https://www.acmicpc.net/problem/5569)
+  - [순열의 순서](https://www.acmicpc.net/problem/1722)
+  - [조약돌 꺼내기](https://www.acmicpc.net/problem/13251)
+  - [N과 M (9)](https://www.acmicpc.net/problem/15663)
+  - [N과 M (10)](https://www.acmicpc.net/problem/15664)
+  
 ### 그래프1
 
 ### 그래프2
