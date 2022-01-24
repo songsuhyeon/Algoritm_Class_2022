@@ -52,12 +52,12 @@
 ### 정수론
   - [분수 합](https://www.acmicpc.net/problem/1735)
   - [최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476) ⭐
-  - [캔디 분배](https://www.acmicpc.net/problem/3955)
+  - [캔디 분배](https://www.acmicpc.net/problem/3955) ⭐
   - [에라토스테네스의 체](https://www.acmicpc.net/problem/2960)
   - [골드바흐의 추측](https://www.acmicpc.net/problem/6588)
   - [소수의 연속합](https://www.acmicpc.net/problem/1644)
   - [소인수 분해](https://www.acmicpc.net/problem/11653)
-  - [암호제작](https://www.acmicpc.net/problem/1837)
+  - [암호제작](https://www.acmicpc.net/problem/1837) ⭐
   - [최대공약수](https://www.acmicpc.net/problem/2824)
   - [보이는 점의 개수](https://www.acmicpc.net/problem/2725)
   - [1](https://www.acmicpc.net/problem/4375)
@@ -70,7 +70,7 @@
   - [이항 계수 1](https://www.acmicpc.net/problem/11050)
   - [이항 계수 2](https://www.acmicpc.net/problem/11051)
   - [다리 놓기](https://www.acmicpc.net/problem/1010)
-  - [사전](https://www.acmicpc.net/problem/1256)
+  - [사전](https://www.acmicpc.net/problem/1256) ⭐
   - [카드 놓기](https://www.acmicpc.net/problem/5568)
   - [1학년](https://www.acmicpc.net/problem/5557)
   - [산책](https://www.acmicpc.net/problem/5573)
@@ -80,9 +80,29 @@
   - [N과 M (9)](https://www.acmicpc.net/problem/15663)
   - [N과 M (10)](https://www.acmicpc.net/problem/15664)
   
+  
 ### 그래프1
+  - [집합의 표현](https://www.acmicpc.net/problem/1717)
+  - [줄 세우기](https://www.acmicpc.net/problem/2252)
+  - [네트워크 연결](https://www.acmicpc.net/problem/1922)
+  - [LCA 2](https://www.acmicpc.net/problem/11438)
+  - [키 순서](https://www.acmicpc.net/problem/2458)
+  - [게임 개발](https://www.acmicpc.net/problem/1516)
+  - [교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)
+  - [도로 네트워크](https://www.acmicpc.net/problem/3176)
+  - [두 번째로 작은 스패닝 트리](https://www.acmicpc.net/problem/1626)
 
+  
 ### 그래프2
+  - [단절점](https://www.acmicpc.net/problem/11266)
+  - [최단경로](https://www.acmicpc.net/problem/1753)
+  - [타임머신](https://www.acmicpc.net/problem/11657)
+  - [플로이드](https://www.acmicpc.net/problem/11404)
+  - [단절선](https://www.acmicpc.net/problem/11400)
+  - [할로윈 묘지](https://www.acmicpc.net/problem/3860)
+  - [거의 최단 경로](https://www.acmicpc.net/problem/5719)
+  - [K번째 최단경로 ](https://www.acmicpc.net/problem/1854)
+
 
 ### 동적계획법1
 
