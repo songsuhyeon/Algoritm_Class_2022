@@ -75,35 +75,56 @@
   - [1학년](https://www.acmicpc.net/problem/5557)
   - [산책](https://www.acmicpc.net/problem/5573)
   - [출근 경로](https://www.acmicpc.net/problem/5569)
-  - [순열의 순서](https://www.acmicpc.net/problem/1722)
+  - [순열의 순서](https://www.acmicpc.net/problem/1722) ⭐
   - [조약돌 꺼내기](https://www.acmicpc.net/problem/13251)
   - [N과 M (9)](https://www.acmicpc.net/problem/15663)
   - [N과 M (10)](https://www.acmicpc.net/problem/15664)
   
   
 ### 그래프1
-  - [집합의 표현](https://www.acmicpc.net/problem/1717)
-  - [줄 세우기](https://www.acmicpc.net/problem/2252)
-  - [네트워크 연결](https://www.acmicpc.net/problem/1922)
-  - [LCA 2](https://www.acmicpc.net/problem/11438)
+  - [집합의 표현](https://www.acmicpc.net/problem/1717) ⭐
+  - [줄 세우기](https://www.acmicpc.net/problem/2252) ⭐
+  - [네트워크 연결](https://www.acmicpc.net/problem/1922) ⭐
+  - [LCA 2](https://www.acmicpc.net/problem/11438) ⭐
   - [키 순서](https://www.acmicpc.net/problem/2458)
   - [게임 개발](https://www.acmicpc.net/problem/1516)
   - [교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)
-  - [도로 네트워크](https://www.acmicpc.net/problem/3176)
+  - [도로 네트워크](https://www.acmicpc.net/problem/3176) ⭐
   - [두 번째로 작은 스패닝 트리](https://www.acmicpc.net/problem/1626)
 
   
 ### 그래프2
-  - [단절점](https://www.acmicpc.net/problem/11266)
-  - [최단경로](https://www.acmicpc.net/problem/1753)
-  - [타임머신](https://www.acmicpc.net/problem/11657)
-  - [플로이드](https://www.acmicpc.net/problem/11404)
+  - [단절점](https://www.acmicpc.net/problem/11266) ⭐
+  - [최단경로](https://www.acmicpc.net/problem/1753) ⭐
+  - [타임머신](https://www.acmicpc.net/problem/11657) ⭐
+  - [플로이드](https://www.acmicpc.net/problem/11404) ⭐
   - [단절선](https://www.acmicpc.net/problem/11400)
-  - [할로윈 묘지](https://www.acmicpc.net/problem/3860)
-  - [거의 최단 경로](https://www.acmicpc.net/problem/5719)
-  - [K번째 최단경로 ](https://www.acmicpc.net/problem/1854)
+  - [할로윈 묘지](https://www.acmicpc.net/problem/3860) ⭐
+  - [거의 최단 경로](https://www.acmicpc.net/problem/5719) ⭐
+  - [K번째 최단경로 ](https://www.acmicpc.net/problem/1854) ⭐
 
 
 ### 동적계획법1
+  - [정수 삼각형](https://www.acmicpc.net/problem/1932) ⭐
+  - [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) ⭐
+  - [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) ⭐
+  - [계단 오르기](https://www.acmicpc.net/problem/2579) ⭐
+  - [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)
+  - [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) ⭐
+  - [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) ⭐
+
 
 ### 동적계획법2
+  - [앱](https://www.acmicpc.net/problem/7579) ⭐
+  - [공통 부분 문자열](https://www.acmicpc.net/problem/5582) ⭐
+  - [LCS 2](https://www.acmicpc.net/problem/9252) ⭐
+  - [제단](https://www.acmicpc.net/problem/5626)
+  - [전구](https://www.acmicpc.net/problem/2449)
+  - [카드 게임](https://www.acmicpc.net/problem/11062)
+  - [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) ⭐
+  - [외판원 순회](https://www.acmicpc.net/problem/2098) ⭐
+  - [발전소](https://www.acmicpc.net/problem/1102)
+  - [경찰차](https://www.acmicpc.net/problem/2618)
+  - [공장](https://www.acmicpc.net/problem/7578) ⭐
+  - [케이크 자르기 2](https://www.acmicpc.net/problem/10714)
+
